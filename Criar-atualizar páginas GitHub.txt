@@ -12,3 +12,8 @@ feito.
 
 Atualizar:
 
+cd (até o diretório dos arquivos desejados)
+git add . (. adiciona todos os arquivos, para adicionar apenas arquivo, basta digitar seu nome ex: git add index.html)
+git status (verifica o status dos arquivos. é necessário commitar os arquivos)
+git commit -m "informações do commit"
+git push origin main
