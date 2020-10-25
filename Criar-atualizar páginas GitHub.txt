@@ -1,0 +1,14 @@
+Criar: 
+
+cd (até o diretório dos arquivos desejados)
+git init
+git remote add origin + link
+git add . (. adiciona todos os arquivos)
+git status (verifica o status dos arquivos. é necessário commitar os arquivos)
+git commit -m "informações do commit"
+git push origin main
+
+feito.
+
+Atualizar:
+
