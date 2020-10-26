@@ -12,7 +12,9 @@ header, footer, button
 
 button
 {
-	padding: 4%;
+	padding: 17px;
+	padding-left: 25px;
+	padding-right: 25px;
 	color: #FFFFFF;
 }
 
@@ -24,39 +26,45 @@ button
 
 #menu h1
 {
-	margin-left: 19%;
-	padding-top: 3%;
+	font-size: 50px;
+	margin-left: 200px;
+	padding-top: 50px;
 }
 
 #menu ul 
 {
-	background-color: #00bda8;
-    padding-left: 5%;
+	background-color: #00BDA8;
+    padding-left: 50px;
     padding-top: 20px;
     padding-bottom: 20px;
 
-    margin-left: 3%;
-    margin-right: 35%;
+    margin-left: 50px;
+    margin-right: 800px;
 
 }
 
 #menu ul li 
 {
 	display: inline;
-	margin: 2%;
+	margin: 40px;
+}
+
+h2
+{
+	padding-top: 50px;
+	font-size: 50px;
 }
 
 article
 {
 	text-align: center;
-	display: inline-block;
 }
 
 .article1
 {
-	padding-left: 2%;
-	padding-right: 2%;
- 	margin-bottom: 10%;
+	padding-left: 35px;
+	padding-right: 35px;
+ 	margin-bottom: 100px;
 }
 
 section
@@ -67,23 +75,25 @@ section
 .ml-part
 {
 	float: left;
-	width: 33%;
-	padding-bottom: 2%;
+	width: 400px;
+	padding: 50px;
+	padding-right: 80px;
+	padding-left: 125px;
 }
 
 
 .vv-part
 {
 	float: left;
-	width: 25%;
-	padding-top: 2%;
-	padding-bottom: 5%;
+	width: 350px;
+	padding: 50px;
+	padding-right: 10px;
+	padding-left: 80px;	
 }
 
 footer
 {
 	text-align: center;
-	padding: 9%;
+	padding: 180px;
 	color: #FFFFFF;
-	margin-bottom: 15%;
 }

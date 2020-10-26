@@ -1,0 +1,33 @@
+header, footer
+{
+	background-color: #333333;
+	color: #FFFFFF;
+}
+
+.div
+{
+	background-color: #00AEE1;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+.green-part
+{
+	display: inline;
+}
+
+.green-part-top, .green-part-bot
+{
+	float: left;
+	padding: 50px;
+}
+
+.blue-part
+{
+
+}
+
+.purple-part
+{
+
+}
