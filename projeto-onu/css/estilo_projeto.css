@@ -1,0 +1,121 @@
+body
+{
+	max-width: 1850px;
+}
+
+header
+{
+	background-image: url('../img/climate-change-2254711_1920.jpg');
+	height: 1000px;
+}
+
+#title
+{
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 50px;
+	margin-bottom: auto;
+	padding-top: 400px;
+	text-shadow: #000000 5px 5px 5px;
+}
+
+#subtitle
+{
+	text-align: center;
+	color:#008000;
+	font-size:20px;
+	margin-top: auto;
+	text-shadow: #FFFFFF 0px 0px 2px;
+}
+
+.left
+{
+	float: left;
+	width: 800px;
+	text-align: justify;
+}
+
+.right
+{
+	float: left;
+	width: 700px;
+	-webkit-column-width: 600px;
+}
+
+a
+{
+	text-decoration: none;
+	color: #000000;
+}
+
+.imgs
+{
+	width: 290px;
+	height: 185px;
+	float: left;
+	padding-right: 10px;
+}
+
+.active
+{
+	background: darkcyan;
+    border-radius: 50px;
+    border: 2px solid;
+    padding:10px;
+    border-color: rgba(255,255,255,.8);
+    color: transparent;
+
+}
+
+.ul
+{
+	color: #FFFFFF;
+	display: -webkit-inline-box;
+	margin-left:800px;
+	margin-right: 15px;
+	font-size: 20px;
+
+}
+
+.btn
+{
+	background-color: #120A8F;
+	color: #FFFFFF;
+	-webkit-column-width: 580px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	display: inline-block;
+	text-align: center;
+	width: 1850px;
+}
+
+.footer
+{
+	background-color: #1F1F1F;
+	color: white;
+	display: inline-block;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	margin-top: 40px;
+
+}
+
+.footer-left
+{
+	float: left;
+	width: 370px;
+
+}
+
+.footer-mid
+{
+	float: left;
+	width: 370px;
+
+}
+
+.footer-right
+{
+	float: left;
+	width: 370px;
+}

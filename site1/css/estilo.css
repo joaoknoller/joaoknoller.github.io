@@ -3,6 +3,7 @@ header
 	text-align: center;
 	color: #FFFFFF;
 	background-image: url('../img/banner.jpg');
+	background-repeat: no-repeat;
 	padding-bottom: 125px;
 	padding-top: 125px;
 	
