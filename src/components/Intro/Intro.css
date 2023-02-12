@@ -1,0 +1,36 @@
+.intro {
+  flex-direction: column;
+  margin-top: 3em;
+}
+
+.intro__name {
+  color: var(--clr-primary);
+}
+
+.intro__role {
+  margin-top: 1.2em;
+}
+
+.intro__desc {
+  font-size: 1rem;
+  max-width: 600px;
+}
+
+.intro__desc,
+.intro__contact {
+  margin-top: 2.4em;
+}
+
+.intro .link--icon {
+  margin-right: 0.8em;
+}
+
+.intro .btn--outline {
+  margin-right: 1em;
+}
+
+@media (max-width: 600px) {
+  .app .intro {
+    margin-top: 2em;
+  }
+}

@@ -1,0 +1,21 @@
+.about {
+  flex-direction: column;
+  margin-top: 3em;
+}
+
+.about__desc {
+  font-size: 1rem;
+  max-width: 600px;
+  text-align: center;
+}
+
+.about__desc {
+  margin-top: 2.4em;
+}
+
+@media (max-width: 600px) {
+  .app .about {
+    align-items: flex-start;
+    margin-top: 2em;
+  }
+}
