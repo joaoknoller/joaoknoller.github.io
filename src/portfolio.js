@@ -34,14 +34,14 @@ const projects = [
     sourceCode: 'https://github.com/joaoknoller/template-admin',
     livePreview: 'https://template-admin-joaoknoller.vercel.app/',
   },
-  // {
-  //   name: 'CRUD',
-  //   description:
-  //     '',
-  //   stack: ['TailwindCSS', 'TypeScript', 'React'],
-  //   sourceCode: 'https://github.com',
-  //   livePreview: 'https://github.com',
-  // },
+  {
+    name: 'Calculator',
+    description:
+      'Calculadora Básica inspirada no layout do MacOS',
+    stack: ['React', 'CSS'],
+    sourceCode: 'https://github.com/joaoknoller/calculator',
+    livePreview: 'https://calculator-joaoknoller.vercel.app/',
+  },
 ]
 
 const skills = [
